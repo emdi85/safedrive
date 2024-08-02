@@ -1,0 +1,5 @@
+Flask
+requests
+gpsd-py3
+pyserial
+geopy
